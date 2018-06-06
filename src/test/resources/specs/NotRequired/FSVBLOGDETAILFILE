@@ -1,0 +1,173 @@
+@on Mobile
+        BlogDetailHEadline:
+            width ~ 351px
+            css color is "rgba(0, 25, 112, 1)" 
+            css font-size is "50px"
+            css font-family matches ".*roboto.*"
+            
+        BlogDeatilSubHeadline:
+            width ~ 273px
+            css color is "rgba(0, 25, 112, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+
+        BlogDetailPostedBy:
+            width ~ 300px
+            css color is "rgba(0, 0, 0, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+           
+        BlogDetailCommentTitle:
+            width ~ 351px
+            css color is "rgba(35, 36, 96, 1)" 
+            css font-size is "34px"
+            css font-family matches ".*roboto.*"
+            
+        BlogDetailPostNewComntBtn:
+            width ~ 218px
+            css color is "rgba(255, 255, 255, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+            css background-color is "rgba(36, 51, 129	, 1)" 
+            
+        BLCommentByName:
+            width ~ 217px
+            css color is "rgba(35, 36, 96, 1)" 
+            css font-size is "20px"
+            css font-family matches ".*roboto.*"
+            
+        BLCommentText:
+            width ~ 273	px
+            css color is "rgba(0, 0, 0, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+            
+        BLCommentReplyBtn:
+            width ~ 36px
+            css color is "rgba(35, 36, 96, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+            
+        BLCommentShowReplyIcon:
+            width ~ 34px
+            css color is "rgba(72, 168, 91, 1)" 
+            
+        BLCommentShowReplyElemnt:
+            width ~ 101px
+            css color is "rgba(35, 36, 96, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+                   
+        BLDetailPageBlogText:
+            width ~ 351px
+            css color is "rgba(59, 59, 70, 1)" 
+            css font-size is "18px"
+            css font-family matches ".*roboto.*"
+            
+        BLDetailPageImage:
+            width ~ 351px
+            
+        BlogDetailFullWidthImage:
+            width ~ 375px
+            
+        BlogDetailImageCopy:
+            width ~ 377px
+            
+        BLTagAboveComment:
+            css color is "rgba(35, 36, 96, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+            
+        BDshowcommentsPage:
+            width ~ 218px
+            css color is "rgba(0, 25, 112, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+            css background-color is "rgba(255, 255, 255, 1)" 
+          
+    @on tablet        
+        BlogDetailHEadline:
+            width ~ 532px
+            css color is "rgba(0, 25, 112, 1)" 
+            css font-size is "50px"
+            css font-family matches ".*roboto.*"
+            
+        BlogDeatilSubHeadline:
+            width ~ 273px
+            css color is "rgba(0, 25, 112, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+
+        BlogDetailPostedBy:
+            width ~ 300px
+            css color is "rgba(0, 0, 0, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+           
+        BlogDetailCommentTitle:
+            width ~ 221px
+            css color is "rgba(35, 36, 96, 1)" 
+            css font-size is "34px"
+            css font-family matches ".*roboto.*"
+            
+        BlogDetailPostNewComntBtn:
+            width ~ 218px
+            css color is "rgba(255, 255, 255, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+            css background-color is "rgba(36, 51, 129	, 1)" 
+            
+        BLCommentByName:
+            width ~ 524px
+            css color is "rgba(35, 36, 96, 1)" 
+            css font-size is "20px"
+            css font-family matches ".*roboto.*"
+            
+        BLCommentText:
+            width ~ 641px
+            css color is "rgba(0, 0, 0, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+            
+        BLCommentReplyBtn:
+            width ~ 48px
+            css color is "rgba(35, 36, 96, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+            
+        BLCommentShowReplyIcon:
+            width ~ 34px
+            css color is "rgba(72, 168, 91, 1)" 
+            
+        BLCommentShowReplyElemnt:
+            width ~ 120px
+            css color is "rgba(35, 36, 96, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+                   
+        BLDetailPageBlogText:
+            width ~ 533px
+            css color is "rgba(59, 59, 70, 1)" 
+            css font-size is "18px"
+            css font-family matches ".*roboto.*"
+            
+        BLDetailPageImage:
+            width ~ 533px
+            
+        BlogDetailFullWidthImage:
+            width ~ 768px
+            
+        BlogDetailImageCopy:
+            width ~ 384px
+            
+        BLTagAboveComment:
+            css color is "rgba(35, 36, 96, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+            
+        BDshowcommentsPage:
+            width ~ 218px
+            css color is "rgba(0, 25, 112, 1)" 
+            css font-size is "14px"
+            css font-family matches ".*roboto.*"
+            css background-color is "rgba(255, 255, 255, 1)" 
